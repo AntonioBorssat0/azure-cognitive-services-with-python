@@ -1,4 +1,4 @@
-import os
+giimport os
 import io
 import json
 from msrest.authentication import CognitiveServicesCredentials
